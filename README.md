@@ -1,4 +1,4 @@
-# 101-Food Classification using Transfer Learning Icep
+# 101-Food Classification using Transfer Learning with InceptionV3
 [![Accuracy](https://img.shields.io/badge/accuracy-87%2E31%25-green.svg)](https://github.com/DucLeTrong/food101-classification)
 
 ## About data set
@@ -6,7 +6,7 @@
 Food 101 is a labelled data set with 101 different food classes. Each food class contains 1000 images. Using the data provided,  a deep learning model built on Keras/TensorFlow is trained to classify 101 classes in Food 101 dataset.
 
 
-[Data available here](https://drive.google.com/drive/folders/1THy6bN6pwHEmRvLxfiGcW8dez5VwxzvG?usp=sharing)
+[Data available here](https://www.kaggle.com/dansbecker/food-101/home)
 
 ## Prepare data set
 - Download data set
